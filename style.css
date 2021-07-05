@@ -1,0 +1,10 @@
+
+body{
+    background-color:black !important;
+   
+}
+body>.container-sm>.input-group.mb-5>button{background-color: tomato;color:yellow;font-weight: bolder;}
+h1{color:greenyellow;font-weight:500px;border:10px solid gold;background-color:violet;font-family:Verdana, Geneva, Tahoma, sans-serif;}
+input{border-radius: 20px;}
+
+.card-body{background-color:khaki}
